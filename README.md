@@ -29,3 +29,6 @@ Artificial Intelligence: A Modern Approach Textbook by Peter Norvig and Stuart J
 
 ## 8.MAT301
 Contemporary Abstract Algebra – Jan 1 2016 by Joseph Gallian
+
+## 9.CSC401
+Foundations of Statistical Natural Language Processing, C. Manning and H. Schutze, 1999, MIT Press
