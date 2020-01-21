@@ -16,3 +16,13 @@ Applied Combinatorics ( 6th Edition) By Alan Tucker 2012
 
 ## 5.CSC373
 CLRS, Introduction to Algorithms, MIT Press, 2009
+
+## 6.PSY100(very interesting textbook)
+An Introduction to Psychological Science
+Mark Krause, Southern Oregon University
+Daniel Corts, Augustana College
+Stephen C Smith, University of Winnipeg
+Dan Dolderman, University of Toronto, St George Campus
+
+## 7.CSC384
+Artificial Intelligence: A Modern Approach Textbook by Peter Norvig and Stuart J. Russell
