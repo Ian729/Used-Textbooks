@@ -26,3 +26,6 @@ Dan Dolderman, University of Toronto, St George Campus
 
 ## 7.CSC384
 Artificial Intelligence: A Modern Approach Textbook by Peter Norvig and Stuart J. Russell
+
+## 8.MAT301
+Contemporary Abstract Algebra – Jan 1 2016 by Joseph Gallian
