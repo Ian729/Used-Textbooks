@@ -1,5 +1,5 @@
 # Used-Textbooks
-selected textbooks I've read during college time
+selected textbooks I liked during college time
 
 ## 1.CSC108(a quite good one)
 Practical Programming, Third Edition
